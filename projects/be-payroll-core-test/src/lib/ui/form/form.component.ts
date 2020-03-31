@@ -15,7 +15,7 @@ export class MyFormComponent {
       type: "text2",
       templateOptions: {
         label: "Name",
-        // placeholder: "namePlaceholder",
+        placeholder: "namePlaceholder",
         required: true
       }
       // expressionProperties: {
